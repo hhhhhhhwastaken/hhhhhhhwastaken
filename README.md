@@ -46,29 +46,7 @@
 
 <br>
 
-## `> stats`
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d0d0d" />
-
-</div>
-
-<br>
-
-## `> reach me`
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/github-0d0d0d?style=for-the-badge&logo=github&logoColor=f72585" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=f72585" /></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/linkedin-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=f72585" /></a>
-<a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=f72585" /></a>
-
-<br><br>
 
 ```
 // it works on my machine
